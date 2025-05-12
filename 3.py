@@ -1,4 +1,3 @@
-#3
 horas_t = float (input("horas trabalhadas: "))
 horas_e = float (input("horas extras: "))
 
